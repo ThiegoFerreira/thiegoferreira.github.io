@@ -1,4 +1,4 @@
-const dataEvento = new Date("2025-05-16T00:00:00").getTime();
+const dataEvento = new Date("2025-05-16T17:00:00").getTime();
 
 const atualizarContagem = () => {
   const agora = new Date().getTime();
